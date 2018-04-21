@@ -1,0 +1,1 @@
+export * from './src/app/modules/angular4-table/angular4-table.module'
